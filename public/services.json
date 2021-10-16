@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "3",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "4",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "5",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "6",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "7",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "8",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    },
+    {
+        "id": "9",
+        "name": "Wiper blades replacement",
+        "price": "50",
+        "description": "Stop the streaks and chatter and get back on the road-safely! Read on to learn how to change windshield wiper blades.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3CskGdXNWXrXRYxTvoBbFMYI_Mtwc2tr3A&usqp=CAU"
+    }
+]
